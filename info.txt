@@ -1,0 +1,9 @@
+Flutter Freezed || Flutter Freezed Beginners Guide || Flutter Freezed Tutorial in Hindi/Urdu
+
+1. Error solve : Null check operator used on null value see also
+2. Null check operator used on a null value
+
+* toJson , FromJson,
+* Equality operator,
+* Copy with & Json Key
+* Default Value
